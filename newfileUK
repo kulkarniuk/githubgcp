@@ -1,1 +1,2 @@
 #include stdio.h
+system.out.println("hi , good morning")
